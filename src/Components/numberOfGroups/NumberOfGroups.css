@@ -1,0 +1,22 @@
+.numberOfGroups{
+  padding: 10px 10px 10px 50px;
+  margin-bottom: 200px;
+  }
+button{
+  border: none;
+  background-color: white;
+  font-style: italic;
+}
+.numberOfGroups h2{
+  text-align: -webkit-center;
+  font-size: 5rem !important;
+}
+
+.numberOfGroups p{
+  font-size: 3rem !important;
+  margin-bottom: 0;
+}
+
+.menuSuperior{
+  margin-top: 200px;
+}

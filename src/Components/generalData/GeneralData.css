@@ -1,0 +1,24 @@
+.pages{
+   margin-top: 80px;
+}
+.generalData h2{
+  font-size: 7rem !important;
+  margin-top: 60px;
+
+}
+.generalData {
+  padding: 10px 10px 10px 50px;
+}
+.generalData h3{
+  font-size: 5rem !important;
+
+}
+li, ul{
+  
+  font-size: 30px;
+
+}
+img{
+  left: 30px;
+  position: relative;
+}
